@@ -1,0 +1,197 @@
+.header{
+  margin-top: 30px;
+}
+.bg-green{
+    background-color: #7FAD3A;
+}
+
+
+.header a{
+    margin-left: 50px;
+    color: black;
+    font-weight: bold;
+    display: inline-block;
+    text-decoration: none;
+    
+}
+.nav{
+    margin-top: 20px;
+}
+option{
+    background-color: white;
+}
+.search{
+    border: 1px solid rgb(238, 237, 237);
+    margin-left: 50px;
+    padding: 10px;
+    height: 50px;
+}
+.call{
+    width: 45px;
+    height:45px;
+    margin-left: 50px;
+    line-height: 45px;
+    border-radius: 50px;
+    background-color: #F5F5F5;
+    
+}
+.vegetable{
+    background-image: url(/images/banner.jpg);
+    width: 847px;
+    height: 450px;
+    background-size: 100% 100%;
+    margin-top: 50px;
+    margin-left: 270px;
+    background-repeat: no-repeat;
+}
+.categaries{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.cat1{
+   position: relative;
+   width: 23.5%;
+   height: 100%; 
+}
+.cat1 img{
+    width: 100%;
+}
+.overlay{
+    position: absolute;
+    left: 15px;
+    right: 15px;
+    bottom: 12px;
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+    font-weight: bold;
+}
+.product{
+    margin-top: 50px;
+}
+.box{
+    width: 80px;
+    height: 4px;
+    background-color: #7FAD3A;
+    margin: 0 auto;
+}
+.product a{
+    text-decoration: none;
+    margin-left: 30px;
+    font-size: 18px;
+    display: inline-block;
+    margin-top: 40px;
+    color: black;
+}
+.all{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.img1{
+
+    width: 24.6%;
+    height: 350px;
+    margin-top: 50px;
+}
+.banner{
+display: flex;
+justify-content: space-between;
+margin-top: 60px;
+}
+.main{
+    width: 100%;
+    display: flex;
+    margin-top: 60px;
+}
+.latest{
+
+    width: 33.33%;
+}
+.top{
+    width: 33.33%;
+}
+.review{
+    width: 33.33%;
+}
+.box1{
+    width: 80px;
+    height: 4px;
+    background-color: #7FAD3A;
+    margin: 0 auto;
+}
+.blog{
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    background-color: #F3F6FA;
+    margin-top: 70px;
+    display: flex;
+}
+.ogani{
+    width: 30%;
+    margin-left: 115px;
+    
+}
+.link{
+    width: 30%;
+    margin-top: 70px;
+}
+.links{
+    display: flex;
+    margin-top: 20px;
+    line-height: 30px;
+}
+.link1{
+    width: 50%;
+}
+.link2{
+    width: 50%;
+    margin-left: 20px;
+}
+.mail{
+    width: 39.99%;
+    margin-top: 70px;
+}
+.social{
+    width: 40%;
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-between;
+    
+}
+.facebook{
+    width: 35px;
+    height: 35px;
+    border: 1px solid rgb(218, 215, 215);
+    background-color: white;
+    border-radius: 35px;
+    line-height: 33px;
+    
+}
+.instragram{
+    width: 35px;
+    height: 35px;
+    border: 1px solid rgb(218, 215, 215);
+    background-color: white;
+    border-radius: 35px;
+    line-height: 33px;
+}
+.tweeter{
+    width: 35px;
+    height: 35px;
+    border: 1px solid rgb(218, 215, 215);
+    background-color: white;
+    border-radius: 35px;
+    line-height: 33px;
+}
+.printerest{
+    width: 35px;
+    height: 35px;
+    border: 1px solid rgb(218, 215, 215);
+    background-color: white;
+    border-radius: 35px;
+    line-height: 33px; 
+}
